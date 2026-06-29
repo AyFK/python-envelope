@@ -7,4 +7,5 @@ name = "python-envelope"
 version = "1.0.0"
 
 [tool.setuptools]
+package-dir = {"" = "src"}
 py-modules = ["envelope"]
