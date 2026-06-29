@@ -8,4 +8,4 @@ version = "1.0.0"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
-py-modules = ["main"]
+py-modules = ["python_envelope"]
